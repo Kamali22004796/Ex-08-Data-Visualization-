@@ -146,7 +146,7 @@ plt.show()
 
 ![8 12](https://github.com/Kamali22004796/Ex-08-Data-Visualization-/assets/120567837/7a49de59-c1a1-4219-86c0-0ebef15cb9c0)
 
-##RESULT
+#RESULT
 
 Hence the data visualization method for the given dataset applied successfully.
 
